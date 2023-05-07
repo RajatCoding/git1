@@ -1,0 +1,5 @@
+git init - Initialize git repository
+git clone - clone repository from github
+git add <filename> - adding particular file to track
+git add . - add everything to track by git
+git  rm --cached <filename> - to untrack the file
